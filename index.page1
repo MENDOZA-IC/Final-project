@@ -1,1 +1,35 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ML Items Guide</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Introduction</a>
+    <a href="tips.html">Tips</a>
+    <a href="updates.html">Updates</a>
+</nav>
+
+<div class="container">
+    <div class="title">MOBILE LEGEND ITEMS TIPS AND TRICKS</div>
+
+    <div class="box">
+        <h2>Welcome Player!</h2>
+        <p>This website helps players understand Mobile Legends items, how to use them, and learn about item updates.</p>
+    </div>
+
+    <div class="box">
+        <h3>Item Categories in the Game</h3>
+        <p><b>Attack Items</b> – Blade of Despair, Demon Hunter Sword, Berserker’s Fury, Endless Battle</p>
+        <p><b>Magic Items</b> – Lightning Truncheon, Holy Crystal, Genius Wand, Concentrated Energy</p>
+        <p><b>Defense Items</b> – Athena’s Shield, Immortality, Antique Cuirass, Blade Armor</p>
+        <p><b>Movement Items</b> – Rapid Boots, Tough Boots, Warrior Boots, Magic Shoes</p>
+        <p><b>Jungle Items</b> – Ice Retribution, Flame Retribution, Bloody Retribution</p>
+    </div>
+</div>
+
+</body>
+</html>
